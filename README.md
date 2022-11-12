@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muniseswar
 - 👀 I’m interested in tech.
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on (not yet descided)
+- 💞️ I’m looking to collaborate on (not yet decided)
 
 <!---
 Muniseswar/Muniseswar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
